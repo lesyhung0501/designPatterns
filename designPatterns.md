@@ -1,4 +1,4 @@
-# Báo cáo design partens
+# Báo cáo design parttens
 Báo cáo môn OOP INT2204 3<br>
 Thành viên nhóm gồm:<br>
 * Lê Sỹ Hưng - 19020315<br>
